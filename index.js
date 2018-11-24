@@ -1,4 +1,4 @@
-let request = require("request");
+const request = require("request");
 const argv = require("yargs").argv;
 
 let apiKey = "7544db96b0f129d2f80d356fb7c5de00";
